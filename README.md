@@ -6,19 +6,19 @@ Nama : MUHAMMAD DHIYA'UL HAQ
   ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(106).png)
    ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(107).png)
 
-   ![log]()
+
 2. Buat 2 branch yaitu main dan develop
     ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(108).png)
       ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(109).png)
      
-6. Implementasi Fast Forward
+3. Implementasi Fast Forward
       ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(110).png)
    ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(141).png)
    ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(142).png)
    
 
-![log]()
-8. Implementasi Three Way Merge
+
+4. Implementasi Three Way Merge
   ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(143).png)
 ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(144).png)
 ![log](https://github.com/dhiyaulhaqm/task-1/blob/main/assets/Screenshot%20(145).png)
