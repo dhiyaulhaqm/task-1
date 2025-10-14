@@ -1,2 +1,7 @@
+develop
+konflik di develop
+blebleblebleble
+
 konflik di main
 blablablabla
+main
