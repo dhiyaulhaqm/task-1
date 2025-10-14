@@ -1,3 +1,4 @@
+HEAD
 develop
 konflik di develop
 blebleblebleble
@@ -5,3 +6,6 @@ blebleblebleble
 konflik di main
 blablablabla
 main
+
+konflik di main
+ 71cc17b (konflik main dibuat)
